@@ -1,0 +1,7 @@
+B01,JavaProgramming,JamesGosling,5,0
+B02,DataStructures,MarkWeiss,3,2
+B03,OperatingSystem,Galvin,2,2
+B04,DBMS,Navathe,4,0
+B05,ComputerNetworks,Tanenbaum,1,1
+123,java,ebalagoswami,12,1
+23,cookbook,herbert,6,0
